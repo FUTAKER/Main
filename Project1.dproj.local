@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.09.18 19:34:48.024.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Руслана\Documents\RAD Studio\Projects\uvView.pas</Transaction>
+    <Transaction>2017.09.18 19:34:48.024.dfm,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Руслана\Documents\RAD Studio\Projects\uvView.dfm</Transaction>
+    <Transaction>2017.09.18 19:35:44.034.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Руслана\Documents\RAD Studio\Projects\umModel.pas</Transaction>
+    <Transaction>2017.09.18 19:35:54.766.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\Руслана\Documents\RAD Studio\Projects\ucController.pas</Transaction>
+    <Transaction>2017.09.18 19:42:18.772.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Руслана\Documents\RAD Studio\Projects\uvOwnView.pas</Transaction>
+    <Transaction>2017.09.18 19:43:15.232.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\umModel.pas=C:\Users\Руслана\Desktop\Работа\Main3\umModel.pas</Transaction>
+    <Transaction>2017.09.18 19:43:17.034.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\uvView.pas=C:\Users\Руслана\Desktop\Работа\Main3\uvView.pas</Transaction>
+    <Transaction>2017.09.18 19:43:17.034.dfm,C:\Users\Руслана\Documents\RAD Studio\Projects\uvView.dfm=C:\Users\Руслана\Desktop\Работа\Main3\uvView.dfm</Transaction>
+    <Transaction>2017.09.18 19:43:18.808.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\uvOwnView.pas=C:\Users\Руслана\Desktop\Работа\Main3\uvOwnView.pas</Transaction>
+    <Transaction>2017.09.18 19:43:20.124.pas,C:\Users\Руслана\Documents\RAD Studio\Projects\ucController.pas=C:\Users\Руслана\Desktop\Работа\Main3\ucController.pas</Transaction>
+    <Transaction>2017.09.18 19:43:21.369.dproj,C:\Users\Руслана\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Руслана\Desktop\Работа\Main3\Project1.dproj</Transaction>
+    <Transaction>2017.09.18 20:44:08.570.pas,C:\Users\Руслана\Desktop\Работа\Main3\Unit1.pas=C:\Users\Руслана\Desktop\Работа\Main3\umOwnModel.pas</Transaction>
+    <Transaction>2017.09.18 23:39:05.751.pas,C:\Users\Руслана\Desktop\Работа\Main3\Unit1.pas=C:\Users\Руслана\Desktop\Работа\Main3\ucownContainer.pas</Transaction>
+    <Transaction>2017.09.18 23:40:11.219.pas,C:\Users\Руслана\Desktop\Работа\Main3\ucownContainer.pas=C:\Users\Руслана\Desktop\Работа\Main3\ucOwnController.pas</Transaction>
+    <Transaction>2017.09.19 14:53:58.964.pas,C:\Users\Руслана\Desktop\Работа\Main3\Unit1.pas=C:\Users\Руслана\Desktop\Работа\Main3\ucContainerController.pas</Transaction>
+    <Transaction>2017.09.21 21:54:54.173.pas,C:\Users\Руслана\Desktop\Работа\Main3\Unit1.pas=C:\Users\Руслана\Desktop\Работа\Main3\umPlatform.pas</Transaction>
+    <Transaction>2017.09.22 18:22:55.972.pas,C:\Users\Руслана\Desktop\Работа\Main3\Unit1.pas=C:\Users\Руслана\Desktop\Работа\Main3\ucContainer.pas</Transaction>
+    <Transaction>2017.09.30 21:35:01.532.pas,D:\Сережа\Офис\Работа\Main3\uvOwnView.pas=D:\Сережа\Офис\Работа\Main3\uvFolder.pas</Transaction>
+    <Transaction>2017.09.30 21:37:52.582.pas,D:\Сережа\Офис\Работа\Main3\umOwnModel.pas=D:\Сережа\Офис\Работа\Main3\umFolder.pas</Transaction>
+    <Transaction>2017.09.30 21:39:08.919.pas,D:\Сережа\Офис\Работа\Main3\ucOwnController.pas=D:\Сережа\Офис\Работа\Main3\ucFolder.pas</Transaction>
+    <Transaction>2017.09.30 21:40:43.099.pas,D:\Сережа\Офис\Работа\Main3\ucContainer.pas=D:\Сережа\Офис\Работа\Main3\umContainer.pas</Transaction>
+    <Transaction>2017.10.02 11:12:22.930.pas,D:\Сережа\Офис\Работа\Main3\ucController.pas=D:\Сережа\Офис\Работа\Main3\ucMain.pas</Transaction>
+    <Transaction>2017.10.02 11:12:44.083.pas,D:\Сережа\Офис\Работа\Main3\umModel.pas=D:\Сережа\Офис\Работа\Main3\umMainl.pas</Transaction>
+    <Transaction>2017.10.02 11:12:58.421.pas,D:\Сережа\Офис\Работа\Main3\umMainl.pas=D:\Сережа\Офис\Работа\Main3\umMain.pas</Transaction>
+    <Transaction>2017.10.02 11:13:11.310.pas,D:\Сережа\Офис\Работа\Main3\uvView.pas=D:\Сережа\Офис\Работа\Main3\uvMain.pas</Transaction>
+    <Transaction>2017.10.02 11:13:11.310.dfm,D:\Сережа\Офис\Работа\Main3\uvView.dfm=D:\Сережа\Офис\Работа\Main3\uvMain.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="umContainer.pas"/>
+    <File Path="uvFolder.pas"/>
+    <File Path="umFolder.pas"/>
+    <File Path="ucFolder.pas"/>
+    <File Path="uvMain.pas"/>
+    <File Path="uvMain.dfm"/>
+    <File Path="umMain.pas"/>
+    <File Path="ucMain.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
